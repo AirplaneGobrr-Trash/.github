@@ -14,6 +14,6 @@ This org contains alot of data and if any is leaked lease let me know ASAP!
   - This is used to run all projects
 
 - `192.168.4.76` - Rasberry pi B3
-  - Used as a file server and assests for projects
+  - Used as a file server and assets for projects
 
 - `192.168.4.100` - Ubuntu VM
