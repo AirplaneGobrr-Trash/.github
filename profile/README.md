@@ -6,7 +6,7 @@ Maybe some stuff you might see :blush:
 
 This org contains alot of data and if any is leaked lease let me know ASAP!
 
-# IP info
+# Local IP info (bc lazy)
 
 - `192.168.4.50` - MAIN PC
 
